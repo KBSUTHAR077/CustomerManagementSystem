@@ -1,5 +1,19 @@
 # Customer Management System
-This is a Smart Contact Manger project In this project we have upload
-    contact details at cloud and all User are at Register , Login and Logout here. Login
-    and Admin User are show contact details update contact, add contact and search 
-    contact details. 
+A Customer Management project is web based application. In this project we have store customer data in database update data, delete data and get all data and also using API in this project for update delete and store data of customers.
+
+
+#Technology Used:
+I have completed the project using  Spring Boot, Postman and MySql Database for backend and JavaScripts and CSS is used for front-end and bootstrap. And another technology use like Thyme leaf REST API.
+
+Java 1.8
+IDEs : Spring Tool Suite
+Database : MySQL Yog
+For API Postman
+Server: Tomcat
+
+
+#Purpose 
+   Customer Management System is an application that can provide structure to manage customer details and others circumtance.
+
+#Welcome Page and View 
+

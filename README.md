@@ -20,4 +20,5 @@ Server: Tomcat
    Customer Management System is an application that can provide structure to manage customer details and others circumtance.
 
 # Welcome Page and View 
+![Screenshot (1051)](https://user-images.githubusercontent.com/42708591/105479314-4ffc0e00-5cca-11eb-8f97-f6ba74e1d223.png)
 
